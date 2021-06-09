@@ -10,4 +10,4 @@ git status
 ```
 
 ---
-![Результат git push](./assets/git_push.png)
+![Результат git push](./assets/git_status.png)
