@@ -11,5 +11,5 @@
 
 Вводится команда, параметр и текст сообщения:
 ```
-*git commit -m "update file.md"**
+git commit -m "update file.md"
 ```
