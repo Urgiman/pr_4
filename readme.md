@@ -8,7 +8,12 @@ LICENSE: [MIT](./license.md)
 
 ### Содержание
 1. [Начало работы с GIT](./get_start.md)
-2. [git add](./add.md)
+2. [git config](./git_config.md)
+3. [git remote add](./git_remote_add.md)
+4. [git commit](./git_commit.md)
+5. [git push](./git_push.md)
+6. [git status](./git_status.md)
+7. [git clone](./git_clone.md)
 
 ---
 
