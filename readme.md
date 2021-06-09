@@ -7,7 +7,7 @@ LICENSE: [MIT](./license.md)
 ---
 
 ### Содержание
-1. Вводная
+1. [Начало работы с GIT](./get_start.md)
 2. [git add](./add.md)
 
 ---
